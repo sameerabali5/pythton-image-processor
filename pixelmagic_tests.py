@@ -1,9 +1,5 @@
-"""Contains solutions to Pixelmagic Tests
-CPE101
-Section <05>
-Project 5, Pixelmagic Tests
-Name: <Sameera> <Balijepalli>
-Cal Poly User: <sbalijep>
+"""
+Name: Sameera Balijepalli
 """
 from pixelmagic import find_image
 from pixelmagic import fade_image
