@@ -1,9 +1,5 @@
-"""Contains solutions to Pixelmagic
-CPE101
-Section <05>
-Project 5, Pixelmagic
-Name: <Sameera> <Balijepalli>
-Cal Poly User: <sbalijep>
+"""
+Name: Sameera Balijepalli
 """
 import sys
 import copy
